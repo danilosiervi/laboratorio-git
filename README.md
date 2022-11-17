@@ -1,1 +1,1 @@
-<h1 align="center"> Projeto </h1>
+<h1 align="center"> Level Up Wiz </h1>
