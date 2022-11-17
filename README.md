@@ -1,2 +1,4 @@
 <h1 align="center"> Level Up Wiz </h1>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<h4 align="center"> 
+    :construction:  Projeto em desenvolvimento  :construction:
+</h4>
