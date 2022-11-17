@@ -17,5 +17,10 @@
     <li> JavaScript </li>
     <li> C# </li>
 </ul>
-
+<h1> Desenvolvedor: </h1>
+<ul>
+    <li> Danilo Siervi </li>
+    <li> danilosiervidepaula16@gmail.com </li>
+ </ul>
+ 
 :)
