@@ -9,3 +9,13 @@
     <li> Utilizar duas branches e a ferramenta merge </li>
     <li> Atualizações do arquivo README.md </li>
 </ul>
+<h1> Tecnologias utilizadas: </h1>
+<ul>
+    <li> GitHub </li>
+    <li> Git </li>
+    <li> HTML </li>
+    <li> JavaScript </li>
+    <li> C# </li>
+</ul>
+
+:)
